@@ -21,7 +21,9 @@ Projeto desenvolvido no evento Next Level Week (NLW) - eSports da Rocketseat �
 ### Aguarde o Gif 
 ![Screenrecorder-2022-09-17-23-00-19-781](https://user-images.githubusercontent.com/63079674/190882899-bca1695c-0b10-4ce0-a09e-77d838261568.gif)
 
-
+## Projeto Online
+Link do Projeto Online : https://nlw-e-sports-three.vercel.app/
+para receber as informações do Servidor - é necessario abrir o Projeto "Server" e rodar o comando npm run dev no terminal 
 
 ## Stack utilizada
 
