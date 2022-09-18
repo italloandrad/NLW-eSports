@@ -10,11 +10,17 @@ Projeto desenvolvido no evento Next Level Week (NLW) - eSports da Rocketseat �
 
 - [@Itallo Andrade](https://github.com/italloandrad)
 
+## Screenshots
+![rkt](https://user-images.githubusercontent.com/63079674/190882974-26000509-1593-4e7e-9cbc-d29e984339dc.PNG)
+
+![rokt2](https://user-images.githubusercontent.com/63079674/190882990-d6625008-1ab7-4fbc-9ee7-e015dd1f8cd2.PNG)
 
 
-## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+## Demonstração Apicação Mobile
+### Aguarde o Gif 
+![Screenrecorder-2022-09-17-23-00-19-781](https://user-images.githubusercontent.com/63079674/190882899-bca1695c-0b10-4ce0-a09e-77d838261568.gif)
+
 
 
 ## Stack utilizada
@@ -74,3 +80,53 @@ Insira um gif ou um link de alguma demonstração
     MD: 16,
     LG: 24
      }
+
+### 🖥️ Web App
+
+```bash
+# Go into the repository
+$ cd nlw-eSports/web
+
+# Install dependencies
+$ npm install
+
+# Run the development server
+$ npm run dev
+
+# Navigate to http://localhost:5173
+# The app will automatically reload if you change any of the source files.
+```
+
+### 📱 Mobile App
+
+```bash
+# Go into the repository
+$ cd nlw-eSports/mobile
+
+# Install dependencies
+$ npm install
+
+# Run the development server
+$ expo start
+
+# The app will automatically starts Metro Bundler. You may use an emulator or your own smartphone.
+# The app will automatically reload if you change any of the source files.
+```
+
+### ⚙️ Server API
+
+```bash
+# Go into the repository
+$ cd nlw-eSports/server
+
+# Install dependencies
+$ npm install
+
+# Create the .env file in the repository and add the following line
+DATABASE_URL="file:../src/database/db.sqlite"
+
+# Run the development server
+$ npm run start
+
+# The app will automatically reload if you change any of the source files.
+```
