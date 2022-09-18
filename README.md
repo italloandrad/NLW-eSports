@@ -10,7 +10,7 @@ Projeto desenvolvido no evento Next Level Week (NLW) - eSports da Rocketseat �
 
 - [@Itallo Andrade](https://github.com/italloandrad)
 
-## Screenshots
+## Screenshots Aplicação Web
 ![rkt](https://user-images.githubusercontent.com/63079674/190882974-26000509-1593-4e7e-9cbc-d29e984339dc.PNG)
 
 ![rokt2](https://user-images.githubusercontent.com/63079674/190882990-d6625008-1ab7-4fbc-9ee7-e015dd1f8cd2.PNG)
